@@ -66,7 +66,7 @@ if ( is_admin() ) {
 require plugin_dir_path( __FILE__ ) . 'includes/plugin_update_check.php';
 
 $MyUpdateChecker = new PluginUpdateChecker_2_0 (
-    'https://kernl.us/api/v1/updates/57a0db6c48bec2e978c7d103/',
+    'https://kernl.us/api/v1/updates/57a0e00c48bec2e978c7d105/',
     __FILE__,
     'ssm-collections',
     1
