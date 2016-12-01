@@ -56,7 +56,8 @@ class SSM_Collections_Registrations {
 			'title',
 			'thumbnail',
 			'genesis-layouts',
-			'genesis-seo'
+			'genesis-seo',
+			'genesis-cpt-archives-settings',
 		);
 
 		$args = array(

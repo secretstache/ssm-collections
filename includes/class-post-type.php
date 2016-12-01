@@ -20,7 +20,7 @@ class SSM_Collections {
 	 *
 	 * @var string VERSION Plugin version.
 	 */
-	const VERSION = '0.1.0';
+	const VERSION = '0.1.1';
 
 	/**
 	 * Unique identifier for your plugin.
